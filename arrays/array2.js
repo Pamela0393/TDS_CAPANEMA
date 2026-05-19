@@ -1,7 +1,4 @@
-const nomes = []; // Array vazio
 
-// Desafio : Inserir 7 nomes que existam na sala de aula no array
-// Imprimir os nomes no terminal/output
-let nomes = ["Gabriel", "Maria", "Vitor", "Dheison", "Sibely", "Joelson", "Pâmela"];
 
 console.log(nomes);
+nomes 
