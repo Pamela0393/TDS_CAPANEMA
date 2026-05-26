@@ -5,3 +5,19 @@ sendo necessário inserir uma nova propriedade, modificar uma existente,
  e excluir uma prorpriedade. No final imprimir o objeto no console.
 
 */
+const filme = {
+
+    nome: "Kung Fu Panda",
+    tipo: "infantil",
+    personagem: "Po",
+    mestre: "chifu",
+
+}
+    console.log(filme);
+filme.vilão =  "Kai"
+console.log(filme);
+
+filme.tipo = "ação"
+console.log(filme);
+delete filme.personagem;
+console.log(filme);
